@@ -16,7 +16,7 @@ Python Developer building scalable backend systems, full-stack applications, and
 [![](https://visitcount.itsvg.in/api?id=Samin-Saikia&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+[![Samin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samin-Saikia)](https://github.com/Samin-Saikia/github-readme-stats)
 <!--
 **Samin-Saikia/Samin-Saikia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
