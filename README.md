@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I'm Samin — a Python developer who builds backend systems, Full stack applications, AI agents, Machine learning models and focused on real-world problem solving.<br> Engineering Focus<br>Clean system design<br>Automation & intelligent workflows<br>Long-term scalable architecture<br>Tech Stack<br>Python ,django, Flask , JavaScript ,HTML/CSS , json,tkinter, SQLite, MySQL,Maria db , Git, numpy, pandas, scikit learn, pytorch,matplotlib<br>Currently learning<br>Deep learning in more detail
-
+Python Developer building scalable backend systems, full-stack applications, and AI-powered agents, machine learning and deep learning models with a strong focus on clean architecture and practical problem solving.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samin-saikia-b7660b3a1) 
