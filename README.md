@@ -10,7 +10,7 @@ I am a Python Developer building scalable backend systems, full-stack applicatio
 
 
 
-
+<!-- 
 
 
 ### 🔝 Top Contributed Repo
@@ -18,6 +18,7 @@ I am a Python Developer building scalable backend systems, full-stack applicatio
 
 
 [![](https://visitcount.itsvg.in/api?id=Samin-Saikia&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📊 GitHub Stats:
