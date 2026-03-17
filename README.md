@@ -8,7 +8,16 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1400&color=00D9FF&center=true&vCenter=true&width=680&lines=Building+AI+systems+that+think+and+act.;Shipping+in+hours%2C+not+weeks.;From+Assam+%E2%80%94+building+things+for+the+world.;If+it+doesn't+exist+yet+%E2%80%94+build+it.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1600&color=00D9FF&center=true&vCenter=true&width=680&lines=Python+developer+building+AI+systems+and+full-stack+applications.;Specialised+in+agentic+AI%2C+deep+learning%2C+and+backend+systems.;From+idea+to+deployed+product+%E2%80%94+end+to+end.;Clean+architecture.+Real+data.+Working+software.)
+
+<br>
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0d1117?style=for-the-badge&logoColor=00D9FF&labelColor=0d1117&color=00D9FF)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-0d1117?style=for-the-badge&color=00D9FF)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&color=00D9FF)
+![Full-Stack Dev](https://img.shields.io/badge/Full--Stack_Dev-0d1117?style=for-the-badge&color=00D9FF)
+![Backend Systems](https://img.shields.io/badge/Backend_Systems-0d1117?style=for-the-badge&color=00D9FF)
+![Data Intelligence](https://img.shields.io/badge/Data_Intelligence-0d1117?style=for-the-badge&color=00D9FF)
 
 </div>
 
@@ -212,7 +221,6 @@ Sentiment analyser trained on a real Flipkart dataset. TF-IDF feature extraction
 
 <br>
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samin-Saikia&theme=dark&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="160"/>
 
 <br><br>
@@ -232,7 +240,6 @@ Sentiment analyser trained on a real Flipkart dataset. TF-IDF feature extraction
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D9FF,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-
 
 
 </div>
