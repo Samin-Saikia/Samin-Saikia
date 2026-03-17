@@ -224,7 +224,7 @@ Sentiment analyser trained on a real Flipkart dataset. TF-IDF feature extraction
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samin-Saikia&theme=dark&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="160"/>
 
 <br><br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samin-Saikia&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samin-Saikia&layout=compact&theme=tokyonight&hide=html,css)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samin-Saikia&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&layout=compact&hide=c%2B%2B%2Cc&langs_count=8" height="140"/>
 
 <br><br>
